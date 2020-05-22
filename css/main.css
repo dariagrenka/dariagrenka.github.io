@@ -1,0 +1,14 @@
+body {
+    background-color:cornflowerblue;    
+}
+
+.header {
+    background-image: url(../img/photo_2020-04-17_16-49-44.jpg);
+    min-height: 400px ;
+    background-position: center;
+    background-size: cover;
+}
+
+section {
+    margin-top: 30px;
+} 

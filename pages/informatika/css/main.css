@@ -1,0 +1,21 @@
+body {
+    background-color: #dbb99c;
+}
+
+.head {
+    margin-top: 20px;
+    height: 200px;
+    background-image: url(../img/Iphone%20Wallpaper.png)
+}
+
+h1 {
+    margin-top: 70px;
+    text-align: center;
+    color:#69492e;
+    text-decoration:underline;
+}
+
+section {
+    margin: 20px;
+}
+
